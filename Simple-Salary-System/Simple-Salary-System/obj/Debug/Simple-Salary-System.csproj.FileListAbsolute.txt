@@ -1,0 +1,10 @@
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\bin\Debug\Simple-Salary-System.exe.config
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\bin\Debug\Simple-Salary-System.exe
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\bin\Debug\Simple-Salary-System.pdb
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\obj\Debug\Simple-Salary-System.csproj.AssemblyReference.cache
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\obj\Debug\Simple_Salary_System.Form1.resources
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\obj\Debug\Simple_Salary_System.Properties.Resources.resources
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\obj\Debug\Simple-Salary-System.csproj.GenerateResource.cache
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\obj\Debug\Simple-Salary-System.csproj.CoreCompileInputs.cache
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\obj\Debug\Simple-Salary-System.exe
+C:\Users\employee-04\Desktop\Mohammad-SD\C#\Simple Salary System\Simple-Salary-System\Simple-Salary-System\obj\Debug\Simple-Salary-System.pdb
